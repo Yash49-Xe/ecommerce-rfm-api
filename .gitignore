@@ -1,0 +1,15 @@
+# Ignore massive raw datasets to avoid GitHub size limits
+data/olist_customers_dataset.csv
+data/olist_orders_dataset.csv
+data/olist_order_payments_dataset.csv
+
+# Ignore Jupyter Notebook autosaves
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+env/
